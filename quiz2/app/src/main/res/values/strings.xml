@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">quiz2</string>
+    <string name="movies">Movies</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="lt"><![CDATA[<]]></string>
+    <string name="gt"><![CDATA[>]]></string>
+</resources>
